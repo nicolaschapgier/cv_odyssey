@@ -12,7 +12,7 @@
 > Développeur Web et Web Mobile à la Wild Code School de Lyon
 
 # Expérience professionnelle
-> **Agent circulation - _TTMV à la SNCF_
+> **Agent circulation** - _TTMV à la SNCF_
 
 # Hobbies
 > La montagne
